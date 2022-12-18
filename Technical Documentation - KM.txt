@@ -1,0 +1,48 @@
+Technical Documentation
+Kenia Mijango
+My Adventure Game
+December 18, 2022
+
+Research: 
+       If we were a new developer joining a software project, we would need all the kind of information that would be useful to get introduced to the project. 
+To begin with, we would want an introduction to the data structures which is a storage for the data of the project, it could be an outline of how the data were to be organized in the project. 
+In software systems there are different basic and advanced types of data structures such as linear data structures and nonlinear and we must have the knowledge of the data structure in the project 
+being presented to us (Data Structures). Combined with algorithms it can allow developers to create the programs they would like to; algorithms are the steps that a computer will take to execute the target output. 
+Lastly, we would also need to be introduced to the programming language that is used for the project. An administrator who needs to maintain a software product would need useful information such as the requirements for 
+the software like characteristics, capabilities, and qualities of the software product. The administrator will need an overview of the software like the architecture/design part, and lastly the documentation of code, and algorithms. 
+
+Documentation for My Adventure Game:
+
+Where code is hosted: The code for my Adventure Game project will be hosted on GitHub under ‘My-Adventure-Game’ repository.
+
+Language and technologies: My adventure Game was developed with the Python programming language. 
+
+System Requirements and supported applications: 
+The game consists of 5 chapters. The player moves on through the game by completing the tasks set to them in each chapter and improving their farmland, the player completes chapters when choosing a task and completing, 
+if the task can’t be completed, the game may sometimes (depending on the chapter/task) give you the option or will send you to the previous chapter to complete a task. The system should be easy to use, easy to learn and 
+used individually.
+
+Coding/naming Convention:
+I used a mixture of lowercase letters, and underscores for the naming of my programs, classes, methods, and variables, however I would change it to using the same coding/naming convention to aim to achieve consistency across my program.
+
+How to run/build/deploy the program:
+To run the program, we need to have the main game program with the all the chapters 1 through 5, have the global variables, the print common program, and the start game program to overall have the game be able to successfully run. 
+
+Overview of architecture:
+Chapter 1 includes the player arriving to the farm, which is in awful conditions, they will be able to look for tools within the farm and fix broken structure. Chapter 2 will allow the player to choose between completing 
+certain tasks to earn money, meet the local farmers, and grow crops, if successful, they will move on to chapter 3. In chapter 3 , player has the options to explore the design and menu section and complete more tasks the 
+will help the farm grow. In chapter 4, player can decide to start the kitchen recipe section and the farm animal section. Lastly in chapter 5, the player will choose between delivering food, keeping up with more tasks, or 
+creating a food stand. At the end the player has successfully grown their farm and will have earned lots of money and popularity around the village. 
+The global variables program will include a class for the character which will be built by the input from the player on their name, gender, and age. The main game program is where the game will be run, it will have all the 
+programs needed imported to that program. The print common program includes print statements that need the global variables imported to the program to be able to print. The start game is where the inputs are for the creation 
+of the character game. 
+
+How to start the program (Game): 
+The game can be started from the maingame.py program
+
+
+
+
+
+Data Structures. GeeksforGeeks. (n.d.). Retrieved from https://www.geeksforgeeks.org/data-structures/ 
+
